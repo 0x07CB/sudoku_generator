@@ -1,2 +1,2 @@
-# sodoku_generator
-Sodoku generator python3 scripts
+# sudoku_generator
+Sudoku generator python3 scripts

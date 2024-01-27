@@ -1,6 +1,6 @@
 #coding: utf-8
 
-from sodoku_evaluate import *
+from sudoku.sudoku_evaluate import *
 import random
 import numpy as np
 

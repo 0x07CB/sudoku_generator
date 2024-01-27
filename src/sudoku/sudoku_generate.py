@@ -1,6 +1,6 @@
 #coding: utf-8
 import random
-from sodoku_algorithms import *
+from sudoku.sudoku_algorithms import *
 
 def generate_sudoku():
     grid = np.zeros((9, 9), dtype=int)
